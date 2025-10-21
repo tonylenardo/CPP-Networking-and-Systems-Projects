@@ -1,0 +1,7 @@
+../Disk/book002/book.part00.txt
+../Disk/book002/book.part01.txt
+../Disk/book002/book.part02.txt
+../Disk/book002/book.part03.txt
+../Disk/book002/book.part04.txt
+../Disk/book002/book.part05.txt
+
